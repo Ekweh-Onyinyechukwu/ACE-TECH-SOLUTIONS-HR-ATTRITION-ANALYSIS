@@ -46,4 +46,28 @@ Publishing and Sharing
 
   ## VISUAUALISATION:
 
+     ![](HR.PNG)
+  -count of hr data 1470
+     -attrition count 237
+     -attrition rate 16.12%
+     -active employees
+     -avg. age 37
+   Attrition by gender:
+     -female:87
+     -male:150
+   Attrition by department
+     -sales:38.82%
+     -hr:5.06%
+     -R&D:56.12%   and so on
+
+   ## INSIGHTS:
+- The age group with high attirtion rate is 30-35
+- The education field with high attrition rate is life scicenes with 89 count
+- The high attrition in the travel frequency analysis shows that those that travels frequently had the highest attrition rate  and so on
+
+  
+
+
+  
+
   
